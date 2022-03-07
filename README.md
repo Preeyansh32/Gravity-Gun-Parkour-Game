@@ -5,11 +5,11 @@
   <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FPreeyansh32%2FGravity-Gun-Parkour-Game%2Fmain%2FAbout%2520Game.doc&wdOrigin=BROWSELINK" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
-  <a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity" target="_blank">
+  <a href="https://github.com/Preeyansh32/Gravity-Gun-Parkour-Game/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
 <img alt="Maintenance" src="https://img.shields.io/badge/Here our gamers%3F-yes-green.svg" />
   </a>
-  <a href="https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE" target="_blank">
+  <a href="https://github.com/Preeyansh32/Gravity-Gun-Parkour-Game/blob/master/LICENSE" target="_blank">
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Preeyansh32/Gravity-Gun-Parkour-Game/issues). You can also take a look at the [contributing guide](https://github.com/kefranabg/readme-md-generator/blob/master/CONTRIBUTING.md).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Preeyansh32/Gravity-Gun-Parkour-Game/issues). You can also take a look at the [contributing guide](https://github.com/Preeyansh32/Gravity-Gun-Parkour-Game/blob/master/CONTRIBUTING.md).
 
 ## Show your support
 
